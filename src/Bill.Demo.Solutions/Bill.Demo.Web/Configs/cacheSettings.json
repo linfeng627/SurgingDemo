@@ -16,7 +16,7 @@
               "Name": "Redis",
               "Properties": [
                 {
-                  "value": "127.0.0.1:6379::1"
+                  "value": "local.rancher.com:6379::1"
                 }
               ]
             },
